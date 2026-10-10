@@ -1,0 +1,43 @@
+order_id,customer_name,email,city,product,quantity,unit_price,order_date,status
+1001,John Smith,john.smith@example.com,New York,Laptop,2,850.50,2024-01-05,Delivered
+1002,  Priya Sharma  ,priya.sharma@example.com,  Chennai,Smartphone,1,499.99,2024-01-06,Delivered
+1003,Carlos   Mendez,carlos.m@example.com,Madrid ,Tablet,3,299.00,2024-01-07,Shipped
+1004,Aisha Khan,aisha.khan@example.com,Dubai,Headphones,5,59.90,2024-01-08,Delivered
+1005,  Liam O'Brien,liam.obrien@example.com,Dublin,Monitor,2,189.75,2024-01-09,Pending
+1006,Sophie Martin,sophie.martin@example.com,  Paris  ,Keyboard,4,45.00,2024-01-10,Delivered
+1007,Wei Chen,wei.chen@example.com,Beijing,Mouse,10,19.99,2024-01-11,Shipped
+1008,Emma Johnson,emma.j@example.com,London,Laptop,1,"1,200.00",2024-01-12,Delivered
+1009,Raj   Patel,raj.patel@example.com,Mumbai,Smartphone,2,$450.00,2024-01-13,Delivered
+1010,Olivia Brown,olivia.brown@example.com,Sydney,Tablet,two,310.00,2024-01-14,Cancelled
+1011,Noah Davis,noah.davis@example.com,Toronto,Monitor,1,abc,2024-01-15,Pending
+1012,  Fatima Al-Sayed ,fatima.alsayed@example.com,Cairo,Headphones,3,62.50,2024-01-16,Delivered
+1013,Lucas Silva,lucas.silva@example.com,Sao Paulo,Keyboard,6,  42.00 ,2024-01-17,Shipped
+1014,Mia Wilson,mia.wilson@example.com,Chicago,Mouse,8,18.50,2024-01-18,Delivered
+1015,Ethan Moore,ethan.moore@example.com,Boston,Laptop,1,899.00,2024-01-19,Pending
+1016,,missing.name@example.com,Berlin,Tablet,2,305.00,2024-01-20,Shipped
+1017,Ava Taylor,ava.taylor@example.com,Seattle,Smartphone,,520.00,2024-01-21,Delivered
+1018,Hiroshi Tanaka,hiroshi.t@example.com,Tokyo,Monitor,2,210.00,2024-01-22,Delivered
+1019,Isabella Rossi,isabella.rossi@example.com,Rome,Headphones,4,,2024-01-23,Pending
+,Daniel Kim,daniel.kim@example.com,Seoul,Keyboard,3,47.50,2024-01-24,Shipped
+1021,Chloe Anderson,chloe.a@example.com,Melbourne,Mouse,12,17.99,2024-01-25,Delivered
+1022,Mohammed Ali,mohammed.ali@example.com,Riyadh,Laptop,2,875.00,2024-01-26,Delivered
+1023,Grace Lee,grace.lee@example.com,Singapore,Tablet,1,299.99,2024-01-27,Shipped
+1024,Arjun Reddy,arjun.reddy@example.com,Hyderabad,Smartphone,3,475.00,2024-01-28,Delivered
+1025,Zara Hussain,zara.hussain@example.com,Karachi,Monitor,1,199.00,2024-01-29,Pending
+1001,John Smith,john.smith@example.com,New York,Laptop,2,850.50,2024-01-05,Delivered
+1004,Aisha Khan,aisha.khan@example.com,Dubai,Headphones,5,59.90,2024-01-08,Delivered
+1007,Wei Chen,wei.chen@example.com,Beijing,Mouse,10,19.99,2024-01-11,Shipped
+1003,Carlos Mendez,carlos.mendez@example.com,Barcelona,Laptop,1,860.00,2024-02-01,Pending
+1014,Mia Wilson,mia.wilson@example.com,Chicago,Mouse,9,18.50,2024-02-02,Shipped
+1022,Mohammed Ali,mohammed.ali@example.com,Riyadh,Laptop,2,875.00,2024-01-26,Delivered
+1026,Yuki Nakamura,yuki.nakamura@example.com,Osaka,Headphones,2,64.00,2024-02-03,Delivered
+1027,  Hannah Schmidt,hannah.schmidt@example.com,Munich  ,Keyboard,5,44.50,2024-02-04,Shipped
+1028,Omar Farouk,omar.farouk@example.com,Casablanca,Mouse,7,N/A,2024-02-05,Delivered
+1029,Nina Petrova,nina.petrova@example.com,Moscow,Tablet,2,315.00,2024-02-06,Delivered
+1030,Sanjay  Kumar,sanjay.kumar@example.com,Delhi,Monitor,3,185.00,2024-02-07,Pending
+1031,Lara Costa,lara.costa@example.com,Lisbon,Smartphone,1,505.00,2024-02-08,Delivered
+1032,   ,blank.name@example.com,Vienna,Laptop,1,910.00,2024-02-09,Shipped
+1033,Tom Becker,tom.becker@example.com,Zurich,Headphones,3,70.00,2024-02-10,Delivered
+1005,Liam O'Brien,liam.obrien@example.com,Dublin,Monitor,2,189.75,2024-01-09,Pending
+1034,Elena Garcia,elena.garcia@example.com,Mexico City,Keyboard,4,46.00,2024-02-11,Delivered
+1035,Ravi  Menon,ravi.menon@example.com,Kochi,Tablet,2,$289.50,2024-02-12,Shipped
