@@ -30,7 +30,7 @@ text_columns = ['customer_name', 'email', 'city', 'product', 'status']
 for col in text_columns:
     df[col] = df[col].str.strip()
 
-df = df[df['customer_name'].str.strip() != '']
+df = df[df["customer_name"] != ""]
 
 
 # Remove unwanted spaces from middle of the text values
