@@ -1,2 +1,2 @@
 # projects
-sales_order-csv-to-mysql-etl
+A basic ETL pipeline that extracts sales order data from CSV, transforms and cleans it using Python and Pandas, and loads the processed data into a MySQL database.
